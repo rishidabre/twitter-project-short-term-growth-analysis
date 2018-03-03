@@ -4,5 +4,5 @@
 * Scripts from directory vis/ were used to generate visualizations (using Gephi[1]) and graphs (using Snap.py[2]).
 
 # references
-[1] https://gephi.org/
+[1] https://gephi.org/ 
 [2] https://snap.stanford.edu/snappy/
