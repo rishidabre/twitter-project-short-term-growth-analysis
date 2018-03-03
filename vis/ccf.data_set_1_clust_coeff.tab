@@ -1,0 +1,11 @@
+#
+# Clustering coefficient. G(277, 6405). Average clustering: 0.8093  OpenTriads: 56182 (0.4148)  ClosedTriads: 79258 (0.5852) (Sat Apr 29 17:53:10 2017)
+#
+# Node degree	Average clustering coefficient
+37	1.02703
+40	0.738799
+41	0.82269
+52	0.919306
+54	0.890985
+62	0.771549
+68	0.682616

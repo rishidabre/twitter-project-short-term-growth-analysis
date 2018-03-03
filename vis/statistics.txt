@@ -1,0 +1,8 @@
+Data Set 1
+Average clustering coefficient: 0.809313832635
+Diameter of largest connected componnet: 2
+Number of connected components: 5
+Data Set 2
+Average clustering coefficient: 1.01935948408
+Diameter of largest connected componnet: 2
+Number of connected components: 1
