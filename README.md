@@ -1,2 +1,2 @@
 # twitter-project-short-term-growth-analysis
-This application will be used for the project on short term analysis of the user network structure of Twitter.
+This is an academic project (Apr 2017) aimed at analyzing the short term growth of user network structure of Twitter. 
